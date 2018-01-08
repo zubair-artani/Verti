@@ -1,0 +1,20 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+body {
+	font-size: 16px;
+	background-image: url('../img/back.jpg');
+	font-family: arial;
+
+}
+a {
+	text-decoration: none;
+}
+ul {
+	list-style: none;
+}
+.clear {
+	clear: both;
+}
